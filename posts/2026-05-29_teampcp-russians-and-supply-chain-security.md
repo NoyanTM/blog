@@ -4,11 +4,6 @@ Metadata and reposts:
 - [Substack](https://noyantm.substack.com/p/is-teampcp-a-russian-affiliated-apt)
 - [Reddit](https://www.reddit.com/r/cybersecurity/comments/1ttyfik/is_teampcp_a_russianaffiliated_apt_how_can/)
 
-<style>
-  p { text-align: justify; }
-  figure figcaption { text-align: center;}
-</style>
-
 _DISCLAIMER: I am a master's degree student in "secure software engineering" at Astana IT University in Kazakhstan, so this blog post only represents my personal mediocre perspective and reflections on the topic, rather than the position of a proficient industry expert. I welcome your feedback and further discussions. I used LLMs only for partial translation from Russian to English and for editing grammatical mistakes in this text._
 
 ## Introduction
