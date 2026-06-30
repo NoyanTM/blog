@@ -17,4 +17,3 @@ I use local SLMs in llama-cpp inference and Google Gemini services for editing m
 - Google Gemini services and ComfiUI for generating and editing illustrations.
 - Draw.io for creating vector diagrams.
 - VSCode editor for writing code and text. 
-- And so on...
