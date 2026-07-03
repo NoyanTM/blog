@@ -1,7 +1,7 @@
 # Is TeamPCP a Russian-affiliated APT? How can preventive security principles assist defending ecosystems against attacks on software supply chains?
 
 Metadata:
-- reposts: [Substack](https://noyantm.substack.com/p/is-teampcp-a-russian-affiliated-apt), [Reddit](https://www.reddit.com/r/cybersecurity/comments/1ttyfik/is_teampcp_a_russianaffiliated_apt_how_can/), [Twitter/X](https://x.com/official_noyan/status/2071625105101472012)
+- reposts: [Substack](https://noyantm.substack.com/p/is-teampcp-a-russian-affiliated-apt), [Reddit](https://www.reddit.com/r/cybersecurity/comments/1ttyfik/is_teampcp_a_russianaffiliated_apt_how_can/), [Twitter/X](https://x.com/official_noyan/status/2071625105101472012), [Linkedin](https://www.linkedin.com/posts/noyantendikov_link-to-full-publication-httpslnkdin-share-7478502006291292160-HBp4/)
 - tags: software_supply_chain_attack, preventive_security_principles
 
 _DISCLAIMER: I am a master's degree student in "secure software engineering" at Astana IT University in Kazakhstan, so this blog post only represents my personal mediocre perspective and reflections on the topic, rather than the position of a proficient industry expert. I welcome your feedback and further discussions. I used LLMs only for partial translation from Russian to English and for editing grammatical mistakes in this text._
