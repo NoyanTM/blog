@@ -2,12 +2,9 @@
 title: "Finding and shaping myself in a constantly changing world."
 date: 2026-06-14
 reposts:
-  - platform: Substack
-    url: "https://noyantm.substack.com/p/finding-and-shaping-myself-in-a-constantly"
-  - platform: Twitter/X
-    url: "https://x.com/official_noyan/status/2072997142172688545"
-  - platform: Linkedin
-    url: "https://www.linkedin.com/posts/noyantendikov_you-shouldnt-blindly-trust-everyone-and-activity-7483792725276909568-OvrY"
+  - "Substack: https://noyantm.substack.com/p/finding-and-shaping-myself-in-a-constantly"
+  - "Twitter/X: https://x.com/official_noyan/status/2072997142172688545"
+  - "LinkedIn: https://www.linkedin.com/posts/noyantendikov_you-shouldnt-blindly-trust-everyone-and-activity-7483792725276909568-0vrY"
 tags: ["personal", "self_reflection", "controversial", "attention_economy"]
 description: >
     The author reflects on his life transition after finishing his master’s degree, sharing key insights on personal growth, execution, and critical thinking. He emphasizes the importance of verifying information, cutting through digital noise, and prioritizing hands-on practice over endless theory. Advocating for simplicity over complex planning, he urges focusing on finishing projects rather than getting stuck in analysis paralysis. Looking ahead, he aims to shift his focus from theory to real-world impact by mastering low-level programming, artificial intelligence, and cybersecurity to build meaningful tools and achieve financial independence.
