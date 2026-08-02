@@ -1,0 +1,21 @@
+# Post Summarization
+
+Use this skill when the user provides a blog post, essay, or long-form article and requests a brief, synthesized summary.
+
+## Core Rules
+
+1. **Third-Person Perspective:** Refer to the author exclusively as "he".
+2. **Length Constraint:** Output must be strictly **70 to 100 words**.
+3. **No Meta-Openings:** Never start with phrases like "In this post," "In this article," "This blog post is about," or "Here is a summary."
+4. **Immediate Lead:** Start the first sentence directly with the author (e.g., *"The author reflects..."*) or the core subject.
+5. **Format:** Output a single, scannable paragraph without headings, lists, or structural code blocks.
+
+## Content Extraction Strategy
+
+Distill the text into three core layers:
+
+- **Context/Premise:** The author's starting point or situation (e.g., life stage, major transition).
+- **Core Insights:** Philosophy, actionable principles, and practical mindsets discussed.
+- **Future Direction:** Ultimate takeaways, primary goals, or conclusions.
+
+*Omit specific anecdotes, tool names, hyperlinks, image/figure references, and granular details.*
